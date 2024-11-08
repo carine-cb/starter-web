@@ -1,6 +1,6 @@
 ligne1
 ligne2
-ligne3
+ligne3 qui apporte la résolution
 je modifie la ligne3 dans master
 je modifie la ligne3
 
